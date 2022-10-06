@@ -1,0 +1,8 @@
+main(void){
+
+while(true)
+{
+printf("det går godt");
+}
+
+}
